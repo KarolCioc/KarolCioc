@@ -1,6 +1,6 @@
 <h1 align="left>
   Hi 👋, I'm Karol Cioc
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolcioc&label=Profile%20views&color=0e75b6&style=flat" alt="karolcioc" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=karolcioc&label=Profile%20views&color=0e75b6&style=flat" alt="karolcioc" />
 </h1>
 <h3 align="center">A young man who is working on developing his skills at computer networks and mobile applications</h3>
 
