@@ -1,7 +1,32 @@
-# Hi 👋, I'm Karol Cioc
-<p align="left"><img src="https://komarev.com/ghpvc/?username=karolcioc&label=Profile%20views&color=0e75b6&style=flat" alt="karolcioc" /></p>
+# Hi 👋, I'm Karol Cioc #
 <h3 align="center">A young man who is working on developing his skills at computer networks and mobile applications</h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=karolcioc&label=Profile%20views&color=0e75b6&style=flat" alt="karolcioc" /></p>
+
+## React Native Projects
+
+### [MicroLang](https://github.com/KarolCioc/MicroLang)
+A mobile app for language learning.
+
+### [toDoApp](https://github.com/KarolCioc/toDoApp)
+A mobile to-do app.
+
+**Technologies:**
+- ![React Native](https://img.shields.io/badge/React_Native-blue?style=flat&logo=react)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+- ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+- ![Figma](https://img.shields.io/badge/Figma-purple?style=flat&logo=figma)
+- ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+### [translateApp](https://github.com/KarolCioc/translateApp)
+A mobile translating languages app.
+
+### [coffeeListing](https://github.com/KarolCioc/coffeeListing)
+A mobile app for listing coffee.
+
+**Technologies:**
+- ![React Native](https://img.shields.io/badge/React_Native-blue?style=flat&logo=react)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+- ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+
