@@ -45,7 +45,7 @@ Database and Data Warehouse Project for a Network of Mobile Phone Stores
 LAN/WAN Network Design with Security Techniques
 
 ### [Projekt Sieci Rozleglej](https://github.com/KarolCioc/Projekt-Sieci-Rozleglej)
-Projekt konfiguracji sieci rozległej
+Konfiguracja sieci rozległej
 
 **🛠️ Technologies:**
 - <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="125" />
